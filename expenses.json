@@ -1,0 +1,50 @@
+{
+    "E004": {
+        "category": "food",
+        "amount": 1.0,
+        "expense_description": "string",
+        "date": "2025-09-09 12:44:47.864000+00:00"
+    },
+    "E007": {
+        "category": "food",
+        "amount": 1000.0,
+        "expense_description": "string",
+        "date": "2025-09-19 06:16:05.553000+00:00"
+    },
+    "s11": {
+        "category": "travel",
+        "amount": 100.0,
+        "expense_description": "string",
+        "date": "2025-09-10 00:00:00"
+    },
+    "s12": {
+        "category": "travel",
+        "amount": 100.0,
+        "expense_description": "string",
+        "date": "2025-02-10 00:00:00"
+    },
+    "string": {
+        "category": "food",
+        "amount": 1.0,
+        "expense_description": "string",
+        "date": "2025-09-10 06:23:06.967000+00:00"
+    },
+    "string1": {
+        "category": "food",
+        "amount": 200.0,
+        "expense_description": "string",
+        "date": "2025-09-10 00:00:00"
+    },
+    "string2": {
+        "category": "food",
+        "amount": 200.0,
+        "expense_description": "string",
+        "date": "2025-09-10 00:00:00"
+    },
+    "strin36543": {
+        "category": "food",
+        "amount": 1.0,
+        "expense_description": "string",
+        "date": "2025-09-10 09:41:45.688000+00:00"
+    }
+}
